@@ -27,3 +27,14 @@ html {
   font-size: 10rem;
   flex-flow: column;
 }
+@media only screen and (max-width: 600px) {
+  .discounts {
+    display: block;
+    width: 100%;
+    background-color: #f9f9f9;
+    padding: 20px;
+    text-align: center;
+  }
+
+
+}
